@@ -1,0 +1,9 @@
+# 运行时数据（AstrBot 配置/人格/插件/DB）
+data/
+# NapCat 配置与 QQ 登录态
+napcat/
+ntqq/
+# 本机环境变量
+.env
+# 日志
+*.log
